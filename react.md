@@ -13,3 +13,29 @@
     - `Create an Element`
     - `Create nested React Elements`
     - `Use root.render`
+
+## Krinesh Foods
+
+Header
+-Logo
+-Nav Items
+Body
+-Restaurant Container
+-Resturant Card
+Fotter
+-Copyright
+-Links
+-Address
+-Contact
+
+# Two types of Export/Import
+
+- Default Export/Import
+
+export default Component;
+import Component from "path";
+
+- Named Export/Import
+
+export const component;
+import {Component} from "path";
