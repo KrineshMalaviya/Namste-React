@@ -36,8 +36,27 @@
 
 .filter-btn {
   padding: 10px;
+  display: flex;
 }
 
 .res-logo {
   width: 100%;
+}
+
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shimmer-card {
+  width: 200px;
+  height: 400px;
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+}
+
+.login {
+  padding: 10px;
+  margin: 5px;
 }
